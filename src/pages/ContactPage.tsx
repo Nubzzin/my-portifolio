@@ -63,7 +63,7 @@ function ContactPage() {
       <div className="flex justify-center space-x-4">
         <Link
           to="/projects"
-          className="px-6 py-3 bg-blue-600 text-white rounded-2xl shadow hover:bg-blue-700 transition"
+          className="px-6 py-3 bg-pink-600 text-white rounded-2xl shadow hover:bg-pink-900 transition"
         >
           View Projects
         </Link>
