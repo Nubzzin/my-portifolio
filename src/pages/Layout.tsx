@@ -3,8 +3,8 @@ import LanguageSwitcher from "../components/LanguageSwitcher";
 
 const Layout = () => (
   <div>
-    <LanguageSwitcher />
     <Outlet />
+    <LanguageSwitcher />
   </div>
 );
 
