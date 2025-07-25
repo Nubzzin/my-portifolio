@@ -39,15 +39,23 @@
     }
   },
   "contact": {
-    "title": "Contato",
-    "subtitle": "Atualmente estou procurando novas oportunidades. Se quiser entrar em contato, fico à disposição!",
     "contacts": {
       "title": "Entre em contato",
-      "email": "📧 Email: matheuscds.contato@gmail.com",
-      "linkedin": "💼 LinkedIn: linkedin.com/in/matheus-correia-de-sousa",
-      "github": "🐙 GitHub: github.com/Nubzzin"
-    },
-    "projects_button": "Ver Projetos",
-    "home_button": "Início"
+      "email": {
+        "label": "📧 Email:",
+        "url": "mailto:matheuscds.contato@gmail.com",
+        "text": "matheuscds.contato@gmail.com"
+      },
+      "linkedin": {
+        "label": "💼 LinkedIn:",
+        "url": "https://www.linkedin.com/in/matheus-correia-de-sousa",
+        "text": "linkedin.com/in/matheus-correia-de-sousa"
+      },
+      "github": {
+        "label": "🐙 GitHub:",
+        "url": "https://github.com/Nubzzin",
+        "text": "github.com/Nubzzin"
+      }
+    }
   }
 }
