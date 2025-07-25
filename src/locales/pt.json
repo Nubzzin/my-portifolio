@@ -1,0 +1,53 @@
+{
+  "home": {
+    "title": "Olá, eu sou o Matheus",
+    "subtitle": "Desenvolvedor apaixonado, focado em criar apps web e software voltado ao sistema operacional.",
+    "projects_button": "Ver Projetos",
+    "contact_button": "Contato"
+  },
+  "projects": {
+    "title": "Meus Projetos",
+    "subtitle": "Aqui estão alguns dos projetos em que trabalhei.",
+    "contact_button": "Contato",
+    "home_button": "Início",
+    "projects_list": {
+      "anki": {
+        "title": "Anki My",
+        "description": "Um app de flashcards com repetição espaçada. Feito com React & Rust."
+      },
+      "json": {
+        "title": "Editor JSON",
+        "description": "Editor de JSON leve feito inteiramente em Rust."
+      },
+      "gameoflife": {
+        "title": "Jogo da Vida",
+        "description": "Simulação baseada em Raylib do Jogo da Vida de Conway em C++."
+      },
+      "movie": {
+        "title": "Movie Finder React",
+        "description": "App em React que permite pesquisar e explorar filmes usando uma API."
+      },
+      "compiler_rust": {
+        "title": "Compilador em Rust",
+        "description": "Compilador em Rust usando assembly como linguagem intermediária."
+      },
+      "compiler_cpp": {
+        "title": "Compilador em C++",
+        "description": "Compilador feito em C++ para uma linguagem de teste com sintaxe simples."
+      },
+      "github_link": "Ver no GitHub →"
+    }
+  },
+  "contact": {
+    "title": "Contato",
+    "subtitle": "Atualmente estou procurando novas oportunidades. Se quiser entrar em contato, fico à disposição!",
+    "contacts": {
+      "title": "Entre em contato",
+      "email": "📧 Email: matheuscds.contato@gmail.com",
+      "linkedin": "💼 LinkedIn: linkedin.com/in/matheus-correia-de-sousa",
+      "github": "🐙 GitHub: github.com/Nubzzin"
+    },
+    "projects_button": "Ver Projetos",
+    "home_button": "Início"
+  }
+}

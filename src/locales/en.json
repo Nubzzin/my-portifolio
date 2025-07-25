@@ -1,0 +1,53 @@
+{
+  "home": {
+    "title": "Hi, I'm Matheus",
+    "subtitle": "A passionate developer focused on building web apps and OS-focused software.",
+    "projects_button": "View Projects",
+    "contact_button": "Contact Me"
+  },
+  "projects": {
+    "title": "My Projects",
+    "subtitle": "Here are some of the projects I've worked on.",
+    "contact_button": "Contact Me",
+    "home_button": "Home",
+    "projects_list": {
+      "anki": {
+        "title": "Anki My",
+        "description": "A flashcard app using spaced repetition. Built with React & Rust."
+      },
+      "json": {
+        "title": "JSON Editor",
+        "description": "A lightweight JSON editor made entirely with Rust."
+      },
+      "gameoflife": {
+        "title": "Game of Life",
+        "description": "A Raylib-based simulation of Conway’s Game of Life in C++."
+      },
+      "movie": {
+        "title": "Movie Finder React",
+        "description": "React app that allows users to search and browse movies using a movie API."
+      },
+      "compiler_rust": {
+        "title": "Compiler in Rust",
+        "description": "Rust compiler using assembly as intermediate language."
+      },
+      "compiler_cpp": {
+        "title": "Compiler in C++",
+        "description": "A compiler made in C++ for a test language with simple syntax."
+      },
+      "github_link": "View on GitHub →"
+    }
+  },
+  "contact": {
+    "title": "Contact Me",
+    "subtitle": "I'm currently looking for new opportunities. If you'd like to get in touch, please reach out!",
+    "contacts": {
+      "title": "Get in touch",
+      "email": "📧 Email: matheuscds.contato@gmail.com",
+      "linkedin": "💼 LinkedIn: linkedin.com/in/matheus-correia-de-sousa",
+      "github": "🐙 GitHub: github.com/Nubzzin"
+    },
+    "projects_button": "View Projects",
+    "home_button": "Home"
+  }
+}
