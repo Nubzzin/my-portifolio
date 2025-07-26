@@ -41,6 +41,7 @@
   "contact": {
     "contacts": {
       "title": "Entre em contato",
+      "subtitle": "Sinta-se à vontade para entrar em contato!",
       "email": {
         "label": "📧 Email:",
         "url": "mailto:matheuscds.contato@gmail.com",
