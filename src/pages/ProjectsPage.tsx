@@ -25,7 +25,7 @@ export default function ProjectsPage() {
       </div>
 
       {/* Buttons */}
-      <div className="flex justify-center space-x-4 my-10">
+      <div className="flex justify-center space-x-4 mb-10">
         <Link
           to="/contact"
           className="px-6 py-3 bg-rose-600 text-white rounded-2xl shadow hover:bg-rose-900 transition"
