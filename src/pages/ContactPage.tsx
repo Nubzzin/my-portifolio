@@ -45,7 +45,7 @@ function ContactPage() {
       {/* Contact Info Section */}
       <div className="max-w-2xl w-full bg-white rounded-2xl shadow-md p-8 text-center mb-10">
         <h2 className="text-2xl font-semibold mb-6">
-          {t("contact.contacts.title")}
+          {t("contact.contacts.quick")}
         </h2>
         <p className="mb-4 text-gray-700">
           {email.label}{" "}
